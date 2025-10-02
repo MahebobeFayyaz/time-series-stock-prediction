@@ -2,5 +2,6 @@ yfinance
 pandas
 matplotlib
 ipykernel
-
+scikit-learn
+joblib
 
